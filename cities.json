@@ -1,0 +1,24 @@
+{
+  "Spain": {
+    "Seville": {
+      "january": { "high": 16, "low": 5 },
+      "july": { "high": 36, "low": 19 }
+    },
+    "Madrid": {
+      "january": { "high": 10, "low": 2 },
+      "july": { "high": 32, "low": 18 }
+    }
+  },
+  "Italy": {
+    "Rome": {
+      "january": { "high": 12, "low": 3 },
+      "july": { "high": 31, "low": 18 }
+    }
+  },
+  "France": {
+    "Paris": {
+      "january": { "high": 7, "low": 2 },
+      "july": { "high": 25, "low": 15 }
+    }
+  }
+}
